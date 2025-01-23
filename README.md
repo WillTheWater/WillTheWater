@@ -1,3 +1,3 @@
-- Hi, I’m Will
-- I’m learning C++ for game development
-- I’m looking to collaborate on projects
+- Peace, I’m Will
+- I’m an Ureal Engine/C++ game developer.
+- I'm always looking to collaborate on projects.
