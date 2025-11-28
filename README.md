@@ -1,4 +1,4 @@
-<h2 align="center">👋 Peace, I’m Will</h2>
+<h2 align="center">✌️ Peace, I’m Will</h2>
 <p align="center">
   Game Developer • C++ • Unreal Engine • SFML • Godot
 </p>
