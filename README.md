@@ -1,13 +1,16 @@
 <h2 align="center">✌️ Peace, I’m Will</h2>
 <p align="center">
-  Game Developer • C++ • Unreal Engine • SFML • Godot
+  Game Developer • C++ • SFML • Unreal Engine • Godot
 </p>
 <hr>
 <h2 align="center">🎮 My Games</h2>
 
 <p align="center">
   <a href="https://willthewater.itch.io/diabloot" style="margin: 0 10px;">
-    <img src="https://img.itch.zone/aW1nLzE4MDUwMzk3LnBuZw==/315x250%23c/LVDeov.png" alt="Game Two" width="120px" />
+    <img src="https://img.itch.zone/aW1nLzE4MDUwMzk3LnBuZw==/315x250%23c/LVDeov.png" alt="Diabloot" width="120px" />
+  </a>
+  <a href="[https://willthewater.itch.io/diabloot](https://willthewater.itch.io/diablo-ii-inventory-chess)" style="margin: 0 10px;">
+    <img src="https://img.itch.zone/aW1nLzI0NzczNTM3LnBuZw==/315x250%23c/NmD7lC.png" alt="Chess" width="120px" />
   </a>
   <a href="https://willthewater.itch.io/why-did-the-chicken-cross-the-globe" style="margin: 0 10px;">
     <img src="https://img.itch.zone/aW1nLzIxMzc2NjMwLnBuZw==/315x250%23c/vENaej.png" alt="Why Did the Chicken Cross the Globe" width="120px" />
