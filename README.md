@@ -9,7 +9,7 @@
   <a href="https://willthewater.itch.io/diabloot" style="margin: 0 10px;">
     <img src="https://img.itch.zone/aW1nLzE4MDUwMzk3LnBuZw==/315x250%23c/LVDeov.png" alt="Diabloot" width="120px" />
   </a>
-  <a href="[https://willthewater.itch.io/diabloot](https://willthewater.itch.io/diablo-ii-inventory-chess)" style="margin: 0 10px;">
+  <a href="https://willthewater.itch.io/diablo-ii-inventory-chess" style="margin: 0 10px;">
     <img src="https://img.itch.zone/aW1nLzI0NzczNTM3LnBuZw==/315x250%23c/NmD7lC.png" alt="Chess" width="120px" />
   </a>
   <a href="https://willthewater.itch.io/why-did-the-chicken-cross-the-globe" style="margin: 0 10px;">
