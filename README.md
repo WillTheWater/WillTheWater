@@ -12,6 +12,9 @@
   <a href="https://willthewater.itch.io/diablo-ii-inventory-chess" style="margin: 0 10px;">
     <img src="https://img.itch.zone/aW1nLzI0NzczNTM3LnBuZw==/315x250%23c/NmD7lC.png" alt="Chess" width="120px" />
   </a>
+  <a href="https://willthewater.itch.io/arcade-games" style="margin: 0 10px;">
+    <img src="https://img.itch.zone/aW1nLzI1MjMzODIxLnBuZw==/315x250%23c/pVxcQK.png" alt="Chess" width="120px" />
+  </a>
   <a href="https://willthewater.itch.io/why-did-the-chicken-cross-the-globe" style="margin: 0 10px;">
     <img src="https://img.itch.zone/aW1nLzIxMzc2NjMwLnBuZw==/315x250%23c/vENaej.png" alt="Why Did the Chicken Cross the Globe" width="120px" />
   </a>
