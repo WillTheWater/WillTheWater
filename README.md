@@ -15,20 +15,21 @@
 
 <hr />
 
-### Current Focus: Water Engine (SFML/C++)
+### Current Project: Water Engine v2.0
 The Water Engine is a custom 2D game engine built on SFML, focused on modular architecture, performance, and a clean developer workflow. 
 - **Version 1.0** Stable release focusing on core rendering and entity management.
 - **Version 2.0** (In Progress): Major architectural overhaul for improved performance and expanded systems design.
 
-[View Water Engine Repository](https://github.com/WillTheWater/Water_Engine)
+[Water Engine Repo](https://github.com/WillTheWater/Water_Engine)
 
 ---
 
 ### Skills and Tools
 
-- **Languages:** C++
+- **Languages:** 2 years of C++
 - **Engines:** Water Engine (Custom), Unreal Engine, Godot
 - **Frameworks:** SFML, CMake, Git
+- **Modeling:** 2 years of Blender modeling, rigging and animating.
 - **Background:** 13 years professional traditional art and visual design, filmography, production and marketing.
 
 ---
