@@ -15,12 +15,20 @@
 
 <hr />
 
-### Current Project: Water Engine v2.0
-The Water Engine is a custom 2D game engine built on SFML, focused on modular architecture, performance, and a clean developer workflow. 
-- **Version 1.0** Stable release focusing on core rendering and entity management.
-- **Version 2.0** (In Progress): Major architectural overhaul for improved performance and expanded systems design.
+<div align="center">
 
-[Water Engine Repo](https://github.com/WillTheWater/Water_Engine)
+<img src="https://i.imgur.com/bj0OOhf.png" alt="Water Engine Logo" width="64">
+
+[Water Engine](https://github.com/WillTheWater/Water_Engine)
+
+The Water Engine is a custom 2D game engine built on SFML, focused on modular architecture, performance, and a clean developer workflow.
+
+Version 2.0 (In Progress): Major architectural overhaul for improved performance and expanded systems design.
+
+Version 1.0 Stable release focusing on core rendering and entity management.
+
+</div>
+
 
 ---
 
