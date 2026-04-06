@@ -47,6 +47,12 @@ Version 1.0.0: (Legacy) focused on core rendering and entity management.
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://willthewater.itch.io/water-engine-20-demo-game">
+        <img src="https://img.itch.zone/aW1nLzI2NTI0NjM4LnBuZw==/315x250%23c/vA1onZ.png" width="100%" />
+        <br /><strong>Water Engine Demo</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://willthewater.itch.io/diabloot">
         <img src="https://img.itch.zone/aW1nLzE4MDUwMzk3LnBuZw==/315x250%23c/LVDeov.png" width="100%" />
         <br /><strong>Diabloot</strong>
@@ -58,14 +64,14 @@ Version 1.0.0: (Legacy) focused on core rendering and entity management.
         <br /><strong>Inventory Chess</strong>
       </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://willthewater.itch.io/arcade-games">
         <img src="https://img.itch.zone/aW1nLzI1MjMzODIxLnBuZw==/315x250%23c/pVxcQK.png" width="100%" />
         <br /><strong>Arcade Collection</strong>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://willthewater.itch.io/why-did-the-chicken-cross-the-globe">
         <img src="https://img.itch.zone/aW1nLzIxMzc2NjMwLnBuZw==/315x250%23c/vENaej.png" width="100%" />
@@ -76,12 +82,6 @@ Version 1.0.0: (Legacy) focused on core rendering and entity management.
       <a href="https://selbesterwahr.itch.io/hopndash">
         <img src="https://img.itch.zone/aW1nLzE4OTM5Nzg3LnBuZw==/315x250%23c/LbtmOF.png" width="100%" />
         <br /><strong>Hop-N-Dash</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://davide-bosco.itch.io/color-blind">
-        <img src="https://img.itch.zone/aW1nLzIyNjgyNjI0LnBuZw==/315x250%23c/Q4jDpU.png" width="100%" />
-        <br /><strong>Color Blind</strong>
       </a>
     </td>
   </tr>
