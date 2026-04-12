@@ -23,7 +23,7 @@
 
 The Water Engine is a custom 2D game engine built on SFML, focused on modular architecture, performance, and a clean developer workflow.
 
-Version 2.0.0: (Current Release) Major architectural overhaul for improved performance and expanded systems design.
+Version 2.0.1: (Current Release) Major architectural overhaul for improved performance and expanded systems design.
 
 Version 1.0.0: (Legacy) focused on core rendering and entity management.
 
