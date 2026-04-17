@@ -1,11 +1,12 @@
 <h2 align="center">Peace, I'm Will</h2>
 <p align="center">
-  <strong>Game Designer | Systems Developer | Artist</strong>
+  <strong>SRS Founder | Game Designer | Systems Developer | Artist</strong>
 </p>
 
 <p align="center">
+  <strong>Founder of Stoic Ronin Studio</strong><br />
   <strong>30 Years Traditional Artist</strong><br /> 
-  Game Developer | 2 Years C++ Engine Architecture</strong><br />
+  <strong>Game Developer | 2 Years C++ Engine Architecture</strong><br />
   <strong>2 Years Blender | 3D Modeling | Rigging & Animating</strong>
 </p>
 
@@ -17,18 +18,35 @@
 
 <div align="center">
 
+<img src="https://i.imgur.com/uRjzevw.png" alt="Stoic Ronin Studio Logo" width="120">
+
+[Stoic Ronin Studio](https://www.stoicroninstudio.com)
+
+*"Waste no more time arguing about what a good game should be. Make one."*
+
+Stoic Ronin Studio was founded on the belief that honest, disciplined craft is the only way to build worlds worth visiting. We don’t just want to build games; but build them with an uncompromising commitment to technical control and meaningful storytelling.
+
+**Current Project:** The Catalyst of Quoralis — A 2D isometric story-driven RPG built using the Water Engine.
+
+</div>
+
+---
+
+<br />
+
+<div align="center">
+
 <img src="https://i.imgur.com/bj0OOhf.png" alt="Water Engine Logo" width="64">
 
 [Water Engine](https://github.com/WillTheWater/Water_Engine)
 
 The Water Engine is a custom 2D game engine built on SFML, focused on modular architecture, performance, and a clean developer workflow.
 
-Version 2.0.1: (Current Release) Major architectural overhaul for improved performance and expanded systems design.
+**Version 2.0.1:** (Current Release) Major architectural overhaul for improved performance and expanded systems design.
 
-Version 1.0.0: (Legacy) focused on core rendering and entity management.
+**Version 1.0.0:** (Legacy) focused on core rendering and entity management.
 
 </div>
-
 
 ---
 
