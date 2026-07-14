@@ -42,7 +42,7 @@ Stoic Ronin Studio was founded on the belief that honest, disciplined craft is t
 
 The Water Engine is a custom 2D game engine that uses SFML 3 and Box2D.
 
-**Version 2.1.3** (Current Release) Major architectural overhaul for improved performance and expanded systems design.
+**Version 2.2.4** (Current Release) Major architectural overhaul for improved performance and expanded systems design.
 
 **Version 1.0.0** (Legacy) focused on core rendering and entity management.
 
