@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>Founder of Stoic Ronin Studio</strong><br />
+  <strong>CEO of Stoic Ronin Studio LLC</strong><br />
   <strong>30 Years Traditional Artist</strong><br /> 
   <strong>Game Developer | 2 Years C++ Engine Architecture</strong><br />
   <strong>2 Years Blender | 3D Modeling | Rigging & Animating</strong>
