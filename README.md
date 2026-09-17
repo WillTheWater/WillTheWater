@@ -32,7 +32,7 @@
 
 *"Waste no more time arguing about what a good game should be. Make one."*
 
-Stoic Ronin Studio was founded on a life long dream. Games built with patience, discipline and a relentlss pursuit of understanding.
+Stoic Ronin Studio was founded on a life long dream. Games built with patience, discipline and a relentless pursuit of understanding.
 
 <img src="https://i.imgur.com/pOxmZ0V.png" alt="The Catalyst of Quoralis" width="400">
 
