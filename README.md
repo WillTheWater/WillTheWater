@@ -135,8 +135,3 @@ Stoic Ronin Studio was founded on a life long dream. Games built with patience, 
 </p>
 
 ---
-
-<!-- Optional: remove this block if you'd rather keep the profile purely curated -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WillTheWater&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=contribs" height="150" alt="GitHub Stats" />
-</div>
